@@ -7,4 +7,6 @@
   
 ## Task 2: DATE: 20-01-2025
 * Basic Introduction of C# and completed initial programs.
+* History and Evolution of C#,  NET CLR Architecture
+* .Net Fundamentals, High level v/s low level and Compiler and Interpreter
 
