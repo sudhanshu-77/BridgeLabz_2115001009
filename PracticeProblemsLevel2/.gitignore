@@ -1,0 +1,9 @@
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore project file
+
+PracticeProblemsLevel2.csproj
+
+PracticeProblemsLevel2.sln
