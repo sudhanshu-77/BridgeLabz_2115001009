@@ -4,12 +4,12 @@
 ## Task 1: DATE: 19-01-2025
 * Completed Assisted Problems & Self Problems (Assignment-1)
 
-  
+  ---
 ## Task 2: DATE: 20-01-2025
 * Basic Introduction of C# and completed initial programs.
 * History and Evolution of C#,  NET CLR Architecture
 * .Net Fundamentals, High level v/s low level and Compiler and Interpreter
-
+---
 ## Task 3: DATE: 21-01-2025 (Learning Summary)
 
 ### Topics Covered
@@ -81,7 +81,7 @@
 - **Level 2 Problems**: Tackled intermediate-level problems.
 - **Level 3 Problems**: Challenged with advanced problem-solving tasks.
 
-
+---
 ## Task 6: DATE: 25-01-2025
 
 #### * C# Arrays
