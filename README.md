@@ -77,14 +77,26 @@
 
 - **Level 1 Problems**: Solved introductory problems to apply control flow concepts.
 - **Best Programming Practices**:
-  - Effective variable naming.
-  - Avoiding hard-coded values.
-  - Additional best practices.
 
 - **Level 2 Problems**: Tackled intermediate-level problems.
 - **Level 3 Problems**: Challenged with advanced problem-solving tasks.
 
+
+## Task 6: DATE: 25-01-2025
+
+#### * C# Arrays
+- **Array Basics**: Understanding how to declare, access, and modify arrays.
+- **Array Length**: Learning how to determine the length of an array.
+- **Multidimensional Arrays**: Exploring the creation and usage of multidimensional arrays.
+
+### * Practice
+
+- **Level 1 Problems**: Solved problems to reinforce understanding of array concepts.
+
+- **Level 2 Problems**: Engaged in more complex problem-solving exercises involving arrays.
+
 ---
+
 
 
 
