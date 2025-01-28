@@ -1,4 +1,16 @@
-// Question11.cs
+// 11.            Write a program Quadratic to find the roots of the equation ax2+ bx + c. Use Math functions Math.pow() and Math.sqrt()
+// Hint => 
+// a.               Take a, b, and c as input values to find the roots of x.
+// b.               The roots are computed using the following formulae
+// delta = b2+ 4*a*c
+// If delta is positive the find the two roots using formulae 
+// root1 of x = (-b + delta)/(2*a) 
+// root1 of x = (-b - delta)/(2*a)
+// If delta is zero then there is only one root of x  
+// root of x = -b/(2*a)
+// If delta is negative return empty array or nothing 
+// c.  Write a Method to find find the roots of a quadratic equation and return the roots
+
 using System;
 
 class Question11

@@ -1,4 +1,9 @@
-// Question8.cs
+// 8.               Create a program to find the youngest friends among 3 Amar, Akbar and Anthony based on their ages and tallest among the friends based on their heights and display it
+// Hint => 
+// a.               Take user input for age and height for the 3 friends and store it in two arrays each to store the values for age and height of the 3 friends
+// b.               Write a Method to find the youngest of the 3 friends
+// c.                Write a Method to find the tallest of the 3 friends
+
 using System;
 
 class Question8

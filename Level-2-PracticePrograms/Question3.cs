@@ -1,5 +1,10 @@
-// Question3.cs
-using System;
+// 3.               Write a program that takes a year as input and outputs the Year is a Leap Year or not 
+// Hint => 
+// a.               The LeapYear program only works for year >= 1582, corresponding to a year in the 
+//                   Gregorian calendar. 
+// b.               Also Leap year is divisible by 4 and not divisible by 100 or divisible by 400
+// c.                Write a method to check for Leap Year using the conditions a and b
+// using System;
 
 class Question3
 {
