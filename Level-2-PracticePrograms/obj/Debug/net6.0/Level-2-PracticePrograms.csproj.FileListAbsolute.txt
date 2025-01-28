@@ -1,0 +1,15 @@
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\bin\Debug\net6.0\Level-2-PracticePrograms.exe
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\bin\Debug\net6.0\Level-2-PracticePrograms.deps.json
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\bin\Debug\net6.0\Level-2-PracticePrograms.runtimeconfig.json
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\bin\Debug\net6.0\Level-2-PracticePrograms.dll
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\bin\Debug\net6.0\Level-2-PracticePrograms.pdb
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.csproj.AssemblyReference.cache
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.AssemblyInfoInputs.cache
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.AssemblyInfo.cs
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.csproj.CoreCompileInputs.cache
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.dll
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\refint\Level-2-PracticePrograms.dll
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.pdb
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\Level-2-PracticePrograms.genruntimeconfig.cache
+D:\Capgeminie Training\Assignment 28-01-2025\Level-2-PracticePrograms\obj\Debug\net6.0\ref\Level-2-PracticePrograms.dll
