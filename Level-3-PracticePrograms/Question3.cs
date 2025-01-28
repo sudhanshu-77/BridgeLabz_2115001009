@@ -1,4 +1,10 @@
-﻿// Question3.cs
+﻿// 3.               Extend or Create a NumberChecker utility class and perform the following task. Call from the main() method the different methods and display results. Make sure all are static methods
+// Hint => 
+// a.               Method to find the count of digits in the number and a Method to Store the digits of the number in a digits array
+// b.               Method to find the sum of the digits of a number using the digits array
+// c.                Method to find the sum of the squares of the digits of a number using the digits array. Use Math.Pow() method
+// d.               Method to Check if a number is a Harshad number using a digits array. A number is called a Harshad number if it is divisible by the sum of its digits. For e.g. 21
+// e.               Method to find the frequency of each digit in the number. Create a 2D array to store the frequency with digit in the first column and frequency in the second column.
 using System;
 
 class Question3

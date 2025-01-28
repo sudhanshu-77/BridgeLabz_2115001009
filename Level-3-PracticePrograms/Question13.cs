@@ -1,4 +1,20 @@
-﻿// Question13.cs
+﻿
+// 13.             Write a program to perform matrix manipulation operations like addition, subtraction, multiplication, and transpose. Also finding the determinant and inverse of a matrix. The program should take random matrices as input and display the result of the operations.
+// Hint => 
+// a.                Write a Method to create a random matrix taking rows and columns as parameters
+// b.                Write a Method to add two matrices
+// c.                Write a Method to subtract two matrices
+// d.                Write a Method to multiply two matrices
+
+// Write a Method to find the transpose of a matrix
+           
+// e. Write a Method to find the determinant of a 2x2 matrix
+// f.  Write a Method to find the determinant of a 3x3 matrix
+ 
+// g.   Write a Method to find the inverse of a 2x2 matrix
+// h.   Write a Method to find the inverse of a 3x3 matrix
+// i.    Write a Method to display a matrix
+
 using System;
 
 class Question13

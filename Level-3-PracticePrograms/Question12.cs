@@ -1,4 +1,12 @@
-﻿// Question12.cs
+﻿
+// 12.             Create a program to take input marks of students in 3 subjects physics, chemistry, and maths. Compute the total, average, and the percentage score 
+
+// Hint => 
+// a.                Take input for the number of students
+// b.                Write a method to generate random 2-digit scores for Physics, Chemistry, and Math (PCM) for the students and return the scores. This method returns a 2D array with PCM scores for all students
+// c.                Write a Method to calculate the total, average, and percentages for each student and return a 2D array with the corresponding values. Please ensure to round off the values to 2 Digits using the Math.Round() method. 
+// d.                Finally, write a Method to display the scorecard of all students with their scores, total, average, and percentage in a tabular format using "\t". 
+
 using System;
 
 class Question12

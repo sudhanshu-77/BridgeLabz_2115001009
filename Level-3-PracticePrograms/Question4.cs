@@ -1,4 +1,11 @@
-﻿// Question4.cs
+﻿// 4.               Extend or Create a NumberChecker utility class and perform the following task. Call from the main() method the different methods and display results. Make sure all are static methods
+// Hint => 
+// a.               Method to find the count of digits in the number and a Method to Store the digits of the number in a digits array
+// b.               Method to reverse the digits array 
+// c.                Method to compare two arrays and check if they are equal
+// d.               Method to check if a number is a palindrome using the Digits. A palindrome number is a number that remains the same when its digits are reversed. 
+// e.               Method to Check if a number is a duck number using the digits array. A duck number is a number that has a non-zero digit present in it
+
 using System;
 
 class Question4

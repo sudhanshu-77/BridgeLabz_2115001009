@@ -1,4 +1,15 @@
-﻿// Question6.cs
+﻿// 6.               Extend or Create a NumberChecker utility class and perform the following task. Call from the main() method the different methods and display results. Make sure all are static methods
+// Hint => 
+// a.               Method to find factors of a number and return them as an array. Note there are 2 for loops one for the count and another for finding the factor and storing in the array
+// b.               Method to find the greatest factor of a Number using the factors array
+// c.                Method to find the sum of the factors using factors array and return the sum
+// d.               Method to find the product of the factors using factors array and return the product
+// e.               Method to find product of cube of the factors using the factors array. Use Math.Pow() 
+// f.                 Method to Check if a number is a perfect number. Perfect numbers are positive integers that are equal to the sum of their proper divisors
+// g.               Method to find the number is an abundant number. A number is called an abundant number if the sum of its proper divisors is greater than the number itself
+// h.               Method to find the number is a deficient number. A number is called a deficient number if the sum of its proper divisors is less than the number itself
+// i.                 Method to Check if a number is a strong number. A number is called a strong number if the sum of the factorial of its digits is equal to the number itself
+
 using System;
 
 class Question6
