@@ -10,7 +10,7 @@
 * History and Evolution of C#,  NET CLR Architecture
 * .Net Fundamentals, High level v/s low level and Compiler and Interpreter
 ---
-## Task 3: DATE: 21-01-2025 (Learning Summary)
+## Task 3: DATE: 21-01-2025
 
 ### Topics Covered
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Task 4: DATE: 22-01-2025 (Learning Summary)
+## Task 4: DATE: 22-01-2025
 
 ### Topics Covered
 
@@ -59,7 +59,7 @@
 
 ---
 
-## Task 5: DATE: 23-01-2025 (Learning Summary)
+## Task 5: DATE: 23-01-2025
 
 ### Topics Covered
 
@@ -96,6 +96,37 @@
 - **Level 2 Problems**: Engaged in more complex problem-solving exercises involving arrays.
 
 ---
+
+## Task 7: DATE: 27-01-2025
+
+#### 1. User-Defined Methods in C#
+- **Creating Methods**: Understanding how to define and implement user-defined methods.
+- **Reusability**: Learning how to use methods multiple times to enhance code reusability.
+- **Dynamic Methods**: Exploring techniques to make methods more dynamic and flexible.
+
+#### 2. Recursive Methods
+- **Recursion Basics**: Studying the concept of recursion and how to implement recursive methods.
+
+### Practice
+
+- **Problem Solving**: Practiced problems to apply concepts of user-defined and recursive methods.
+
+---
+
+## Task 8: DATE: 28-01-2025
+
+#### 1. Static Methods in C#
+- **Static Methods**: Understanding the characteristics and usage of static methods in C#.
+- **.NET Standard Library Methods**: Exploring commonly used methods from the .NET Standard Library.
+- **System.Math Class**: Learning about the methods available in the `System.Math` class for mathematical operations.
+
+### Practice
+
+- **Level 1 Problems**: Solved introductory problems to apply static method concepts.
+
+
+---
+
 
 
 
