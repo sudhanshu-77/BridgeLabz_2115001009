@@ -1,4 +1,12 @@
-﻿
+﻿// Level 1 Practice Programs
+// Write a program to input the Principal, Rate, and Time values and calculate Simple Interest.
+// Hint => 
+// Simple Interest = Principal * Rate * Time / 100
+// Take user input for principal, rate, time
+// Write a method to calculate the simple interest given principle, rate and time as parameters
+// Output “The Simple Interest is ___ for Principal ___, Rate of Interest ___ and Time ___”
+
+
 using System;
 
 class Question1

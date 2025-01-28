@@ -1,4 +1,9 @@
-﻿// Question8.cs
+﻿// 8.Write a program to find the smallest and the largest of the 3 numbers.
+// Hint => 
+// Take user input for 3 numbers
+// Write a single method to find the smallest and largest of the three numbers
+// public static int[] FindSmallestAndLargest(int number1, int number2, int number3)
+
 using System;
 
 class Question8

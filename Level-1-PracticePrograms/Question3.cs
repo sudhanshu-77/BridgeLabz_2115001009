@@ -1,4 +1,9 @@
-﻿// Question3.cs
+﻿// Create a program to find the maximum number of handshakes among N number of students.
+// Hint => 
+// Get integer input for numberOfStudents variable.
+// Use the combination = (n * (n - 1)) / 2 formula to calculate the maximum number of possible handshakes.
+// Display the number of possible handshakes.
+
 using System;
 
 class Question3

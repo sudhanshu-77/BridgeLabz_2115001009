@@ -1,4 +1,10 @@
-﻿// Question9.cs
+﻿// 9.Write a program to take 2 numbers and print their quotient and reminder
+// Hint => 
+// Take user input as integer
+// Use division operator (/) for quotient and moduli operator (%) for reminder
+// Write Method to find the reminder and the quotient of a number 
+// public static int[] FindRemainderAndQuotient(int number, int divisor) 
+
 using System;
 
 class Question9
