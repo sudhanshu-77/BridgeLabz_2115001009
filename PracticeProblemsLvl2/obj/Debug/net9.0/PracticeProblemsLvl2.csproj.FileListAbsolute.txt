@@ -1,0 +1,15 @@
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\bin\Debug\net9.0\PracticeProblemsLvl2.exe
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\bin\Debug\net9.0\PracticeProblemsLvl2.deps.json
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\bin\Debug\net9.0\PracticeProblemsLvl2.runtimeconfig.json
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\bin\Debug\net9.0\PracticeProblemsLvl2.dll
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\bin\Debug\net9.0\PracticeProblemsLvl2.pdb
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.AssemblyInfoInputs.cache
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.AssemblyInfo.cs
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.csproj.CoreCompileInputs.cache
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.sourcelink.json
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.dll
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\refint\PracticeProblemsLvl2.dll
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.pdb
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\PracticeProblemsLvl2.genruntimeconfig.cache
+D:\CG-Train\Capge_Daily_Tasks\PracticeProblemsLvl2\obj\Debug\net9.0\ref\PracticeProblemsLvl2.dll
