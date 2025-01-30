@@ -1,0 +1,14 @@
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\bin\Debug\net9.0\Day8ProblemStatement.exe
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\bin\Debug\net9.0\Day8ProblemStatement.deps.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\bin\Debug\net9.0\Day8ProblemStatement.runtimeconfig.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\bin\Debug\net9.0\Day8ProblemStatement.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\bin\Debug\net9.0\Day8ProblemStatement.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.AssemblyInfoInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.AssemblyInfo.cs
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.csproj.CoreCompileInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\refint\Day8ProblemStatement.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\Day8ProblemStatement.genruntimeconfig.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment10\Day8ProblemStatement\obj\Debug\net9.0\ref\Day8ProblemStatement.dll
