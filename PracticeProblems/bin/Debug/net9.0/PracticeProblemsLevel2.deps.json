@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PracticeProblemsLevel2/1.0.0": {
+        "runtime": {
+          "PracticeProblemsLevel2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticeProblemsLevel2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
