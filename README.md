@@ -12,8 +12,6 @@
 ---
 ## Task 3: DATE: 21-01-2025
 
-### Topics Covered
-
 ### 1. Static and Non-Static Members
 - **Calling Static Methods**:
   - From other static methods.
@@ -34,8 +32,6 @@
 ---
 
 ## Task 4: DATE: 22-01-2025
-
-### Topics Covered
 
 #### 1. Fundamental Concepts
 - **Comments**: Understanding the purpose and usage of comments in code.
@@ -59,8 +55,6 @@
 ---
 
 ## Task 5: DATE: 23-01-2025
-
-### Topics Covered
 
 #### 1. Control Flow in C#
 - **C# Control Flows**: Studied the flow of control in C# programs.
@@ -122,9 +116,40 @@
 ### Practice
 
 - **Level 1 Problems**: Solved introductory problems to apply static method concepts.
+---
 
+## Task 9: DATE: 29-01-2025
+
+#### String Handling in C#
+- **String Methods**: Studied various methods available for string manipulation in C#.
+- **String Handling Concepts**: Explored fundamental concepts related to handling strings effectively.
+- **String Problems**: Solved problem statements focused on applying string methods and handling techniques.
+
+
+## Task 10: DATE: 30-01-2025
+
+#### Built-in String Methods and Exception Handling
+- **String Built-in Methods**: Learned about built-in methods for string operations in C#.
+- **Exception Handling**: Studied the types and mechanisms of exception handling in C#.
+
+- **Type 1 Problems**: Solved problems using built-in functions, including date and time operations.
+- **Type 2 Problems**: Engaged in problem-solving exercises involving concepts like palindrome checks and Fibonacci sequences.
 
 ---
+
+## Task 11: DATE: 31-01-2025 
+
+#### 1 Object-Oriented Programming (OOP) in C#
+- **OOP Overview**: Gained an understanding of the principles and advantages of OOP.
+- **Comparison**: Compared procedural programming with object-oriented programming.
+
+#### 2. Classes and Objects
+- **C# Class**: Studied the structure and purpose of classes in C#.
+- **C# Object**: Learned about creating and using objects in C#.
+- **Level 1 Problems**: Practiced problems focusing on the application of OOP concepts, specifically classes and objects.
+
+---
+
 
 
 
