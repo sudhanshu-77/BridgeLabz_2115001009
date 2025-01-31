@@ -1,0 +1,14 @@
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\bin\Debug\net9.0\BookApp.exe
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\bin\Debug\net9.0\BookApp.deps.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\bin\Debug\net9.0\BookApp.runtimeconfig.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\bin\Debug\net9.0\BookApp.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\bin\Debug\net9.0\BookApp.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.AssemblyInfo.cs
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\refint\BookApp.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\BookApp.genruntimeconfig.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\BookApp\obj\Debug\net9.0\ref\BookApp.dll

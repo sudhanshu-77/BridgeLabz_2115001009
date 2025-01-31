@@ -1,0 +1,14 @@
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\bin\Debug\net9.0\CircleApp.exe
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\bin\Debug\net9.0\CircleApp.deps.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\bin\Debug\net9.0\CircleApp.runtimeconfig.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\bin\Debug\net9.0\CircleApp.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\bin\Debug\net9.0\CircleApp.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.AssemblyInfoInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.AssemblyInfo.cs
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.csproj.CoreCompileInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\refint\CircleApp.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\CircleApp.genruntimeconfig.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment11\CircleApp\obj\Debug\net9.0\ref\CircleApp.dll
