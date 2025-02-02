@@ -1,0 +1,14 @@
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\bin\Debug\net9.0\PracticeProblems.exe
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\bin\Debug\net9.0\PracticeProblems.deps.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\bin\Debug\net9.0\PracticeProblems.runtimeconfig.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\bin\Debug\net9.0\PracticeProblems.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\bin\Debug\net9.0\PracticeProblems.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.AssemblyInfo.cs
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\refint\PracticeProblems.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\PracticeProblems.genruntimeconfig.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment12\PracticeProblems\obj\Debug\net9.0\ref\PracticeProblems.dll
