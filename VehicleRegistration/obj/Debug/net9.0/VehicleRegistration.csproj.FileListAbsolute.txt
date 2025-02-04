@@ -1,0 +1,15 @@
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\bin\Debug\net9.0\VehicleRegistration.exe
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\bin\Debug\net9.0\VehicleRegistration.deps.json
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\bin\Debug\net9.0\VehicleRegistration.runtimeconfig.json
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\bin\Debug\net9.0\VehicleRegistration.dll
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\bin\Debug\net9.0\VehicleRegistration.pdb
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.AssemblyInfoInputs.cache
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.AssemblyInfo.cs
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.csproj.CoreCompileInputs.cache
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.sourcelink.json
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.dll
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\refint\VehicleRegistration.dll
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.pdb
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\VehicleRegistration.genruntimeconfig.cache
+D:\CG-Train\Capge_Daily_Tasks\VehicleRegistration\obj\Debug\net9.0\ref\VehicleRegistration.dll
