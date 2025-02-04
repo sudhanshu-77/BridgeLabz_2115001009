@@ -1,0 +1,15 @@
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\bin\Debug\net9.0\UniversityManagement.exe
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\bin\Debug\net9.0\UniversityManagement.deps.json
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\bin\Debug\net9.0\UniversityManagement.runtimeconfig.json
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\bin\Debug\net9.0\UniversityManagement.dll
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\bin\Debug\net9.0\UniversityManagement.pdb
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.AssemblyInfoInputs.cache
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.AssemblyInfo.cs
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.csproj.CoreCompileInputs.cache
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.sourcelink.json
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.dll
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\refint\UniversityManagement.dll
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.pdb
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\UniversityManagement.genruntimeconfig.cache
+D:\CG-Train\Capge_Daily_Tasks\UniversityManagement\obj\Debug\net9.0\ref\UniversityManagement.dll
