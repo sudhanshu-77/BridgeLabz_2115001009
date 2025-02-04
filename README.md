@@ -150,6 +150,46 @@
 
 ---
 
+## Task 12: DATE: 01-02-2025
+
+#### 1. Constructors and Variables in C#
+- **C# Constructors**: Explored the role and types of constructors in C#.
+- **Instance vs. Class Variables**: Learned the differences and use cases for instance and class variables.
+
+#### 2. Access Modifiers
+- **Access Modifier Concepts**: Studied the purpose and application of access modifiers in C#.
+
+### Practice
+
+- **Level 1 Problems**: Solved problems to apply concepts of constructors, variables, and access modifiers.
+
+---
+
+## Task 13: DATE: 03-02-2025
+
+#### 1. Keywords in C#
+- **`this` Keyword**: Studied the usage of the `this` keyword in C#.
+- **`sealed` Keyword**: Explored the purpose and application of the `sealed` keyword.
+
+### Practice
+
+- **Practical Applications**: Worked on problems such as a Banking Account System and a Library Management System to apply these concepts.
+
+---
+
+## Task 14: DATE: 04-02-2025
+
+#### 1. In-depth Study of Keywords
+- **C# Constructor and `this` Keyword**: Delved deeper into constructors and the `this` keyword using resources from dotnet.tutorials.
+- **`sealed` Keyword**: Further explored the `sealed` keyword and its implications in C#.
+
+### Practice
+
+- **Conceptual Problems**: Practiced problems focusing on the use of the `this` and `sealed` keywords.
+
+---
+
+
 
 
 
