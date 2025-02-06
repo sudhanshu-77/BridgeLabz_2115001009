@@ -189,6 +189,34 @@
 
 ---
 
+## Task 15: DATE: 05-02-2025 
+
+#### 1. Advanced OOP Concepts in C#
+- **Aggregation**: Studied the concept of aggregation and its role in object-oriented design.
+- **Association**: Explored how association defines relationships between classes.
+- **Composition**: Learned about composition and its significance in creating strong relationships between objects.
+
+#### 2. Combinations of OOP Concepts
+- **Aggregation with Association**: Examined how these concepts can be combined to model complex relationships.
+### Practice
+- **Conceptual Problems**: Solved problems to apply the concepts of aggregation, association, and composition.
+
+---
+
+## Task 16: DATE: 06-02-2025 
+#### 1. OOP Design Diagrams in C#
+- **Class Diagram**: Learned how to represent the structure of a system using class diagrams.
+- **Sequence Diagram**: Studied the use of sequence diagrams to illustrate object interactions over time.
+- **Object Diagram**: Explored object diagrams to visualize instances of classes at a particular moment.
+
+#### 2. Revision
+- **Dotnet Tutorials**: Reviewed key topics from dotnet tutorials to reinforce understanding.
+
+### Practice
+- **Diagram-Based Problems**: Practiced problems focused on applying the concepts of class, sequence, and object diagrams.
+
+---
+
 
 
 
