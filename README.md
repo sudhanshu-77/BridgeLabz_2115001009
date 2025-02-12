@@ -217,6 +217,63 @@
 
 ---
 
+Certainly! Here's a revised version of Tasks 16 through 20 with improved clarity and structure:
+
+---
+
+## Task 17: DATE: 07-02-2025
+
+#### 1. Inheritance in C#
+- **Inheritance Concepts**: Studied the principles of inheritance and its various levels in C#.
+
+#### 2. Polymorphism and Interfaces
+- **Polymorphism**: Explored how polymorphism allows for dynamic method invocation.
+- **Interfaces**: Learned about the role and implementation of interfaces in C#.
+
+### Practice
+
+- **Assignment Problems**: Practiced problems related to inheritance, polymorphism, and interfaces.
+
+---
+
+## Task 18: DATE: 08-02-2025 
+
+#### 1. Inheritance and Interfaces
+- **Inheritance Concepts**: Continued exploration of inheritance and its application in assignments.
+- **Interfaces**: Further studied the use of interfaces in C#.
+
+- **Practice Assignment Problems**: Solved practice problems focusing on the application of inheritance and interfaces.
+
+---
+
+## Task 19: DATE: 10-02-2025 
+
+#### 1. Advanced OOP Concepts
+- **Polymorphism**: Delved deeper into polymorphism and its practical applications.
+- **Abstract Class and Interface**: Studied the differences and use cases for abstract classes and interfaces.
+
+#### 2. Encapsulation
+- **Encapsulation**: Learned about encapsulation and its importance in data hiding and protection.
+
+### Practice
+**Practice Assignment Problems**: Solved problems related to polymorphism, encapsulation, interfaces, and abstract classes.
+
+---
+
+## Task 20: DATE: 11-02-2025
+
+#### 1. Data Structures in C#
+- **Key Features and Types**: Studied the key features and various types of data structures in C#.
+
+#### 2. Linked Lists
+- **Introduction to LinkedList**: Learned about the basic concepts of linked lists.
+- **Single, Double, and Circular LinkedList**: Explored the characteristics and differences between single, double, and circular linked lists.
+
+**Practice Assignment Problems**: Solved practice problems focused on the implementation and manipulation of linked lists.
+
+---
+
+
 
 
 
