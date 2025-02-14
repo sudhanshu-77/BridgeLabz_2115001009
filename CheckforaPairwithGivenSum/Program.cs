@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Check for a Pair with Given Sum in an Array
+// Problem: Given an array and a target sum, find if there exists a pair of elements whose sum is equal to the target.
+// Hint: Store visited numbers in a hash map and check if target - current_number exists in the map.
+
+
+using System;
 using System.Collections.Generic;
 
 public class PairWithGivenSum

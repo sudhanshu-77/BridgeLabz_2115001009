@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Sliding Window Maximum
+// Problem: Given an array and a window size k, find the maximum element in each sliding window of size k.
+// Hint: Use a deque (double-ended queue) to maintain indices of useful elements in each window.
+
+
+using System;
 using System.Collections.Generic;
 
 public class SlidingWindowMaximum

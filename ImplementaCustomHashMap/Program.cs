@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Implement a Custom Hash Map
+// Problem: Design and implement a basic hash map class with operations for insertion, deletion, and retrieval.
+// Hint: Use an array of linked lists to handle collisions using separate chaining.
+
+
+using System;
 using System.Collections.Generic;
 
 public class HashMap<K, V>

@@ -1,4 +1,11 @@
-﻿using System;
+﻿// Implement a Queue Using Stacks
+// Problem: Design a queue using two stacks such that enqueue and dequeue operations are performed efficiently.
+// Hint: Use one stack for enqueue and another stack for dequeue. Transfer elements between stacks as needed.
+
+
+
+
+using System;
 using System.Collections.Generic;
 
 public class QueueUsingStacks

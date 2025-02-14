@@ -1,4 +1,10 @@
-﻿using System;
+﻿// Stock Span Problem
+// Problem: For each day in a stock price array, calculate the span (number of consecutive days the price was less than or equal to the current day's price).
+// Hint: Use a stack to keep track of indices of prices in descending order.
+
+
+
+using System;
 using System.Collections.Generic;
 
 public class StockSpan

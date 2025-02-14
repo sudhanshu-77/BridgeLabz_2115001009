@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Longest Consecutive Sequence
+// Problem: Given an unsorted array, find the length of the longest consecutive elements sequence.
+// Hint: Use a hash map to store elements and check for consecutive elements efficiently.
+
+
+using System;
 using System.Collections.Generic;
 
 public class LongestConsecutiveSequence
