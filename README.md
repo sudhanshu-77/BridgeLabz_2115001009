@@ -273,6 +273,82 @@ Certainly! Here's a revised version of Tasks 16 through 20 with improved clarity
 
 ---
 
+## Task 21: DATE: 12-02-2025 
+
+#### 1. Stack in C#
+- **Key Characteristics**: Studied the fundamental characteristics and operations of a stack.
+- **Internal Working**: Explored how stacks are implemented and function internally.
+
+#### 2. Queue in C#
+- **Key Characteristics**: Learned about the essential characteristics and operations of a queue.
+- **Internal Working**: Examined the internal workings and implementation of queues.
+- 
+- **Stack and Queue Problems**: Solved practice problems to apply concepts of stacks and queues.
+
+---
+
+## Task 22: DATE: 13-02-2025 
+
+#### 1. LinkedList Revision
+- **Singly, Doubly, and Circular LinkedList**: Reviewed the implementation and differences between these types of linked lists.
+
+- **Stack Problems**: Solved assignment problems focusing on stack implementations.
+
+---
+
+## Task 23: DATE: 14-02-2025 
+
+#### 1. Sorting Algorithms
+- **Bubble Sort**: Revised the algorithm and its step-by-step process.
+- **Insertion Sort**: Reviewed the insertion sort technique and its application.
+- **Merge Sort**: Studied the merge sort algorithm and its efficiency.
+
+
+- **Sorting Problems**: Solved practice problems based on these sorting algorithms.
+
+---
+
+## Task 24: DATE: 15-02-2025 
+
+#### 1. String Handling and Search Algorithms
+- **StringBuilder and StringBuffer**: Learned about the usage and differences between `StringBuilder` and `StringBuffer`.
+- **BufferedReader**: Studied the purpose and application of `BufferedReader` for efficient input handling.
+- **Linear and Binary Search**: Explored the concepts and implementation of linear and binary search algorithms.
+
+
+- **StringBuffer Problems**: Solved assignment problems focusing on the use of `StringBuffer`.
+
+---
+
+## Task 25: DATE: 16-02-2025 
+
+#### 1. File and Input Handling
+- **FileReader and InputStreamReader**: Studied the usage of `FileReader` and `InputStreamReader` for file and input operations.
+
+#### 2. Complexity Analysis
+- **Runtime Analysis**: Explored the principles of runtime analysis.
+- **Big-O Notation**: Gained an understanding of Big-O notation for evaluating algorithm efficiency.
+- **Time and Space Complexity**: Studied how to analyze and optimize time and space complexity.
+
+- **Assignment Problems**: Solved problems focusing on file handling and complexity analysis.
+
+---
+
+## Task 26: DATE: 17-02-2025
+
+#### 1. Algorithm Best Practices
+- **General Best Practices**: Learned about best practices for writing efficient algorithms.
+- **Complexity Optimization**: Studied techniques for optimizing time and space complexity.
+
+#### 2. Complexity Analysis
+- **Runtime Analysis**: Continued exploration of runtime analysis and Big-O notation.
+- **Time and Space Complexity**: Further studied the analysis and optimization of time and space complexity.
+
+- **Assignment Problems**: Solved problems focusing on algorithm optimization and complexity analysis.
+
+---
+
+
 
 
 
