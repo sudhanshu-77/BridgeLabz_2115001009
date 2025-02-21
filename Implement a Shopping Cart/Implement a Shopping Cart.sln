@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement a Shopping Cart", "Implement a Shopping Cart.csproj", "{56E4E7E8-A174-3FF3-253E-16DA1C8385BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E4E7E8-A174-3FF3-253E-16DA1C8385BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E4E7E8-A174-3FF3-253E-16DA1C8385BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E4E7E8-A174-3FF3-253E-16DA1C8385BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E4E7E8-A174-3FF3-253E-16DA1C8385BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E9EDEF-17C9-4A4C-A712-4BBF780AD1E9}
+	EndGlobalSection
+EndGlobal
