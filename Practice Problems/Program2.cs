@@ -1,32 +1,43 @@
-// StringBuilder Problem 2: Remove Duplicates from a String Using StringBuilder
-// Problem: Write a program that uses StringBuilder to remove all duplicate characters from a given string while maintaining the original order.
-// using System;
-using System.Text;
-using System.Collections.Generic;
+// 2. Handling Division and Input Errors
+// 💡 Problem Statement:
+// Write a C# program that asks the user to enter two numbers and divides them. Handle possible exceptions such as:
+// DivideByZeroException if division by zero occurs.
+// FormatException if the user enters a non-numeric value.
+// Expected Behavior:
+// If the user enters valid numbers, print the result of the division.
+// If the user enters 0 as the denominator, catch and handle DivideByZeroException.
+// If the user enters a non-numeric value, catch and handle FormatException.
+using System;
 
-class Program2
+class DivisionProgram
 {
-    static string RemoveDuplicates(string input)
+    public static void Main()
     {
-        HashSet<char> seen = new HashSet<char>();
-        StringBuilder sb = new StringBuilder();
-
-        foreach (char c in input)
+        try
         {
-            if (!seen.Contains(c))
-            {
-                seen.Add(c);
-                sb.Append(c);
-            }
-        }
-        return sb.ToString();
-    }
+            Console.WriteLine("Enter the first number:");
+            string input1 = Console.ReadLine();
+            double number1 = Convert.ToDouble(input1);
 
-    static void Main()
-    {
-        string input = "programming";
-        string result = RemoveDuplicates(input);
-        Console.WriteLine("String without duplicates: " + result);
+            Console.WriteLine("Enter the second number:");
+            string input2 = Console.ReadLine();
+            double number2 = Convert.ToDouble(input2);
+
+            double result = number1 / number2;
+            Console.WriteLine($"The result of dividing {number1} by {number2} is: {result}");
+        }
+        catch (DivideByZeroException)
+        {
+            Console.WriteLine("Error: Division by zero is not allowed.");
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Error: Please enter a valid numeric value.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+        }
     }
 }
 

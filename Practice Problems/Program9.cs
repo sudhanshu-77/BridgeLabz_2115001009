@@ -1,28 +1,49 @@
-// Linear Search Problem 1: Search for the First Negative Number
-// Problem: You are given an integer array. Write a program that performs Linear Search to find the first negative number in the array.
-
-
+// 9. Using Nested try-catch Blocks
+// 💡 Problem Statement:
+// Write a C# program that:
+// Takes an array and a divisor as input.
+// Tries to access an element at an index.
+// Tries to divide that element by the divisor.
+// Uses nested try-catch to handle:
+// IndexOutOfRangeException if the index is invalid.
+// DivideByZeroException if the divisor is zero.
+// Expected Behavior:
+// If valid, print the division result.
+// If the index is invalid, catch and display "Invalid array index!".
+// If division by zero, catch and display "Cannot divide by zero!".
 using System;
 
-class Program9
+class NestedTryCatch
 {
-    static int FindFirstNegative(int[] array)
+    public static void Main()
     {
-        for (int i = 0; i < array.Length; i++)
+        int[] numbers = { 10, 20, 30, 40, 50 };
+        Console.WriteLine("Enter the index of the element you want to access:");
+        int index = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter the divisor:");
+        int divisor = int.Parse(Console.ReadLine());
+
+        try
         {
-            if (array[i] < 0)
+            // Attempt to access the element at the specified index
+            int element = numbers[index];
+
+            try
             {
-                return i;
+                // Attempt to divide the element by the divisor
+                int result = element / divisor;
+                Console.WriteLine($"Result of division: {result}");
+            }
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("Cannot divide by zero!");
             }
         }
-        return -1; // Return -1 if no negative number is found
-    }
-
-    static void Main()
-    {
-        int[] numbers = { 3, 5, -2, 8, -1 };
-        int index = FindFirstNegative(numbers);
-        Console.WriteLine("First negative number is at index: " + index);
+        catch (IndexOutOfRangeException)
+        {
+            Console.WriteLine("Invalid array index!");
+        }
     }
 }
 

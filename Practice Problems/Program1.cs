@@ -1,26 +1,40 @@
-﻿// Problem Statements
-// StringBuilder Problem 1: Reverse a String Using StringBuilder
-// Problem: Write a program that uses StringBuilder to reverse a given string. For example, if the input is "hello", the output should be "olleh".
+﻿// Practice Problems for Exception Handling in C#
+// 1. Handling File Not Found Exception
+// 💡 Problem Statement:
+// Create a C# program that reads a file named "data.txt". If the file does not exist, handle the IOException properly and display a user-friendly message.
+// Expected Behavior:
+// If the file exists, print its contents.
+// If the file does not exist, catch the IOException and print "File not found".
 using System;
-using System.Text;
+using System.IO;
 
-class Program1
+class FileNotFoundExceptionHandling
 {
-    static string ReverseString(string input)
+    public static void Main()
     {
-        StringBuilder sb = new StringBuilder(input.Length);
-        for (int i = input.Length - 1; i >= 0; i--)
-        {
-            sb.Append(input[i]);
-        }
-        return sb.ToString();
-    }
+        string filePath = "data.txt";
 
-    static void Main()
-    {
-        string input = "hello";
-        string reversed = ReverseString(input);
-        Console.WriteLine("Reversed string: " + reversed);
+        try
+        {
+            // read the contents of the file
+            string fileContents = File.ReadAllText(filePath);
+            Console.WriteLine("File Contents:");
+            Console.WriteLine(fileContents);
+        }
+        catch (FileNotFoundException)
+        {
+          Console.WriteLine("File not found.");
+        }
+        catch (IOException ex)
+        {
+            // Handle other I/O exceptions
+            Console.WriteLine($"An I/O error occurred: {ex.Message}");
+        }
+        catch (Exception ex)
+        {
+            // Handle any other unexpected exceptions
+            Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+        }
     }
 }
 

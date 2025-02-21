@@ -1,36 +1,45 @@
-//  Problem 2: Compare StringBuilder Performance
-// Problem: Write a program that compares the performance of StringBuilder for concatenating strings multiple times.
-
+// 4. Handling Multiple Exceptions
+// 💡 Problem Statement:
+// Create a C# program that performs array operations.
+// Accept an integer array and an index number.
+// Retrieve and print the value at that index.
+// Handle the following exceptions:
+// IndexOutOfRangeException if the index is out of range.
+// NullReferenceException if the array is null.
+// Expected Behavior:
+// If valid, print "Value at index X: Y".
+// If the index is out of bounds, display "Invalid index!".
+// If the array is null, display "Array is not initialized!".
 using System;
-using System.Diagnostics;
-using System.Text;
 
-class Program4
+class ArrayOperations
 {
-    static void Main()
+    public static void Main()
     {
-        int iterations = 10000;
-        string baseString = "test";
-
-        // Using StringBuilder
-        Stopwatch sw = Stopwatch.StartNew();
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < iterations; i++)
+        try
         {
-            sb.Append(baseString);
-        }
-        sw.Stop();
-        Console.WriteLine("StringBuilder time: " + sw.ElapsedMilliseconds + "ms");
+             int[] array = null; 
 
-        // Using string concatenation
-        sw.Restart();
-        string result = string.Empty;
-        for (int i = 0; i < iterations; i++)
-        {
-            result += baseString;
+            int index = 2; 
+
+            // Check if the array is null
+            if (array == null)
+            {
+                throw new NullReferenceException();
+            }
+
+            //retrieve the value at the specified index
+            int value = array[index];
+            Console.WriteLine($"Value at index {index}: {value}");
         }
-        sw.Stop();
-        Console.WriteLine("String concatenation time: " + sw.ElapsedMilliseconds + "ms");
+        catch (IndexOutOfRangeException)
+        {
+            Console.WriteLine("Invalid index!");
+        }
+        catch (NullReferenceException)
+        {
+            Console.WriteLine("Array is not initialized!");
+        }
     }
 }
 

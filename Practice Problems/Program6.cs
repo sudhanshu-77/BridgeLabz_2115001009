@@ -1,38 +1,42 @@
-// Problem 2: Count the Occurrence of a Word in a File Using StreamReader
-// Problem: Write a program that reads a file and counts how many times a specific word appears in the file.
+// 6. Handling Invalid Input in Interest Calculation
+// 💡 Problem Statement:
+// Create a method CalculateInterest(double amount, double rate, int years) that:
+// Throws ArgumentException if amount or rate is negative.
+// Propagates the exception using throw and handles it in Main().
+// Expected Behavior:
+// If valid, return and print the calculated interest.
+// If invalid, catch and display "Invalid input: Amount and rate must be positive".
 
 using System;
-using System.IO;
 
-class Program6
+class InterestCalculator
 {
-    static int CountWordOccurrences(string filePath, string word)
+    public static double CalculateInterest(double amount, double rate, int years)
     {
-        int count = 0;
-        using (StreamReader reader = new StreamReader(filePath))
+        if (amount < 0 || rate < 0)
         {
-            string line;
-            while ((line = reader.ReadLine()) != null)
-            {
-                string[] words = line.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-                foreach (string w in words)
-                {
-                    if (w.Equals(word, StringComparison.OrdinalIgnoreCase))
-                    {
-                        count++;
-                    }
-                }
-            }
+            throw new ArgumentException("Amount and rate must be positive");
         }
-        return count;
+
+        // Simple interest calculation
+        return amount * rate * years / 100;
     }
 
     static void Main()
     {
-        string filePath = "example.txt";
-        string word = "example";
-        int count = CountWordOccurrences(filePath, word);
-        Console.WriteLine($"The word '{word}' appears {count} times.");
+        try
+        {
+            double amount = 1000; // amount
+            double rate = 5; // rate
+            int years = 3; // years
+
+            double interest = CalculateInterest(amount, rate, years);
+            Console.WriteLine($"Calculated Interest: {interest}");
+        }
+        catch (ArgumentException ex)
+        {
+            Console.WriteLine($"Invalid input: {ex.Message}");
+        }
     }
 }
 

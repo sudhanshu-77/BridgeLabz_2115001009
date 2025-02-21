@@ -1,0 +1,14 @@
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\bin\Debug\net9.0\Assignment-21-02-2025.exe
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\bin\Debug\net9.0\Assignment-21-02-2025.deps.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\bin\Debug\net9.0\Assignment-21-02-2025.runtimeconfig.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\bin\Debug\net9.0\Assignment-21-02-2025.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\bin\Debug\net9.0\Assignment-21-02-2025.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.AssemblyInfoInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.AssemblyInfo.cs
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.csproj.CoreCompileInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\refint\Assignment-21-02-2025.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\Assignment-21-02-2025.genruntimeconfig.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-21-02-2025\obj\Debug\net9.0\ref\Assignment-21-02-2025.dll

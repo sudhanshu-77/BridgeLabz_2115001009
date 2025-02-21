@@ -1,27 +1,55 @@
-// Problem 1: Concatenate Strings Efficiently Using StringBuilder
-// Problem: You are given an array of strings. Write a program that uses StringBuilder to concatenate all the strings in the array efficiently.
-using System;
-using System.Text;
+// 3. Creating and Handling a Custom Exception
+// 💡 Problem Statement:
+// Create a custom exception called InvalidAgeException.
+// Write a method ValidateAge(int age) that throws InvalidAgeException if the age is below 18.
+// In Main(), take user input and call ValidateAge().
+// If an exception occurs, display "Age must be 18 or above".
+// Expected Behavior:
+// If the age is >=18, print "Access granted!".
+// If age <18, throw InvalidAgeException and display the message.
+// using System;
 
-class Program3
+// Custom exception class
+class InvalidAgeException : Exception
 {
-    static string ConcatenateStrings(string[] strings)
+    public InvalidAgeException(string message) : base(message)
     {
-        StringBuilder sb = new StringBuilder();
-        foreach (string str in strings)
+    }
+}
+
+class AgeValidator
+{
+    // Method to validate age
+    public static void ValidateAge(int age)
+    {
+        if (age < 18)
         {
-            sb.Append(str);
+            throw new InvalidAgeException("Age must be 18 or above.");
         }
-        return sb.ToString();
     }
 
     static void Main()
     {
-        string[] strings = { "Hello", " ", "World", "!" };
-        string result = ConcatenateStrings(strings);
-        Console.WriteLine("Concatenated string: " + result);
+        try
+        {
+            Console.WriteLine("Please enter your age:");
+            int age = int.Parse(Console.ReadLine());
+
+            ValidateAge(age);
+            Console.WriteLine("Access granted!");
+        }
+        catch (InvalidAgeException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Please enter a valid number for age.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+        }
     }
 }
-
-
 
