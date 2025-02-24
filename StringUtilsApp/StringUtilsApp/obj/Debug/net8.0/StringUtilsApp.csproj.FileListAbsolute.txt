@@ -1,0 +1,14 @@
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\bin\Debug\net8.0\StringUtilsApp.exe
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\bin\Debug\net8.0\StringUtilsApp.deps.json
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\bin\Debug\net8.0\StringUtilsApp.runtimeconfig.json
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\bin\Debug\net8.0\StringUtilsApp.dll
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\bin\Debug\net8.0\StringUtilsApp.pdb
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.AssemblyInfoInputs.cache
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.AssemblyInfo.cs
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.csproj.CoreCompileInputs.cache
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.dll
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\refint\StringUtilsApp.dll
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.pdb
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\StringUtilsApp.genruntimeconfig.cache
+D:\CG-Train\CG_Test\StringUtilsApp\StringUtilsApp\obj\Debug\net8.0\ref\StringUtilsApp.dll

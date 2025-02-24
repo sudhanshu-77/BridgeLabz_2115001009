@@ -1,0 +1,14 @@
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\bin\Debug\net8.0\NumberUtilsApp.exe
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\bin\Debug\net8.0\NumberUtilsApp.deps.json
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\bin\Debug\net8.0\NumberUtilsApp.runtimeconfig.json
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\bin\Debug\net8.0\NumberUtilsApp.dll
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\bin\Debug\net8.0\NumberUtilsApp.pdb
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.AssemblyInfoInputs.cache
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.AssemblyInfo.cs
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.csproj.CoreCompileInputs.cache
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.dll
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\refint\NumberUtilsApp.dll
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.pdb
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\NumberUtilsApp.genruntimeconfig.cache
+D:\CG-Train\CG_Test\NumberUtilsApp\NumberUtilsApp\obj\Debug\net8.0\ref\NumberUtilsApp.dll

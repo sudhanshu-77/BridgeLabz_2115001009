@@ -1,0 +1,14 @@
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\bin\Debug\net8.0\ListManagerApp.exe
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\bin\Debug\net8.0\ListManagerApp.deps.json
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\bin\Debug\net8.0\ListManagerApp.runtimeconfig.json
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\bin\Debug\net8.0\ListManagerApp.dll
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\bin\Debug\net8.0\ListManagerApp.pdb
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.AssemblyInfoInputs.cache
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.AssemblyInfo.cs
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.csproj.CoreCompileInputs.cache
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.dll
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\refint\ListManagerApp.dll
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.pdb
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ListManagerApp.genruntimeconfig.cache
+D:\CG-Train\CG_Test\ListManagerApp\ListManagerApp\obj\Debug\net8.0\ref\ListManagerApp.dll

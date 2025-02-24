@@ -1,0 +1,14 @@
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.exe
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.deps.json
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.runtimeconfig.json
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.dll
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.pdb
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.AssemblyInfoInputs.cache
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.AssemblyInfo.cs
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.csproj.CoreCompileInputs.cache
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.dll
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\refint\ExceptionHandlingApp.dll
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.pdb
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.genruntimeconfig.cache
+D:\CG-Train\CG_Test\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ref\ExceptionHandlingApp.dll

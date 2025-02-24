@@ -1,0 +1,14 @@
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\bin\Debug\net8.0\DatabaseConnectionApp.exe
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\bin\Debug\net8.0\DatabaseConnectionApp.deps.json
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\bin\Debug\net8.0\DatabaseConnectionApp.runtimeconfig.json
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\bin\Debug\net8.0\DatabaseConnectionApp.dll
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\bin\Debug\net8.0\DatabaseConnectionApp.pdb
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.AssemblyInfoInputs.cache
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.AssemblyInfo.cs
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.csproj.CoreCompileInputs.cache
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.dll
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\refint\DatabaseConnectionApp.dll
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.pdb
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\DatabaseConnectionApp.genruntimeconfig.cache
+D:\CG-Train\CG_Test\DatabaseConnectionApp\DatabaseConnectionApp\obj\Debug\net8.0\ref\DatabaseConnectionApp.dll

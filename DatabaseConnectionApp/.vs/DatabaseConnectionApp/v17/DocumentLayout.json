@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A059782-9540-4A00-9446-5353825E6647}|DatabaseConnectionApp\\DatabaseConnectionApp.csproj|d:\\cg-train\\cg_test\\databaseconnectionapp\\databaseconnectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A059782-9540-4A00-9446-5353825E6647}|DatabaseConnectionApp\\DatabaseConnectionApp.csproj|solutionrelative:databaseconnectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A059782-9540-4A00-9446-5353825E6647}|DatabaseConnectionApp\\DatabaseConnectionApp.csproj|d:\\cg-train\\cg_test\\databaseconnectionapp\\databaseconnectionapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A059782-9540-4A00-9446-5353825E6647}|DatabaseConnectionApp\\DatabaseConnectionApp.csproj|solutionrelative:databaseconnectionapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D132BAE0-DDA4-48F9-9F31-0F3928604E1E}|DatabaseConnectionTests\\DatabaseConnectionTests.csproj|d:\\cg-train\\cg_test\\databaseconnectionapp\\databaseconnectiontests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D132BAE0-DDA4-48F9-9F31-0F3928604E1E}|DatabaseConnectionTests\\DatabaseConnectionTests.csproj|solutionrelative:databaseconnectiontests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\DatabaseConnectionTests\\Class1.cs",
+              "RelativeDocumentMoniker": "DatabaseConnectionTests\\Class1.cs",
+              "ToolTip": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\DatabaseConnectionTests\\Class1.cs",
+              "RelativeToolTip": "DatabaseConnectionTests\\Class1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:34:48.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\DatabaseConnectionApp\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnectionApp\\DatabaseConnection.cs",
+              "ToolTip": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\DatabaseConnectionApp\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnectionApp\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:34:03.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\DatabaseConnectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseConnectionApp\\Program.cs",
+              "ToolTip": "D:\\CG-Train\\CG_Test\\DatabaseConnectionApp\\DatabaseConnectionApp\\Program.cs",
+              "RelativeToolTip": "DatabaseConnectionApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:33:46.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
