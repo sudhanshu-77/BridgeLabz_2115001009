@@ -1,0 +1,14 @@
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+D:\CG-Train\CG_Test\CalculatorApp\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
