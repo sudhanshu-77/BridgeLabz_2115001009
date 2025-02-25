@@ -1,0 +1,14 @@
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\bin\Debug\net9.0\Practice Problems of Reflection.exe
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\bin\Debug\net9.0\Practice Problems of Reflection.deps.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\bin\Debug\net9.0\Practice Problems of Reflection.runtimeconfig.json
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\bin\Debug\net9.0\Practice Problems of Reflection.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\bin\Debug\net9.0\Practice Problems of Reflection.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.AssemblyInfoInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.AssemblyInfo.cs
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.csproj.CoreCompileInputs.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\refint\Practice Problems of Reflection.dll
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.pdb
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\Practice Problems of Reflection.genruntimeconfig.cache
+C:\Users\shudh\OneDrive\Desktop\C#Programs\Assignment-25-02-2025\Practice Problems of Reflection\obj\Debug\net9.0\ref\Practice Problems of Reflection.dll
