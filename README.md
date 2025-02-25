@@ -345,10 +345,73 @@ Certainly! Here's a revised version of Tasks 16 through 20 with improved clarity
 - **Time and Space Complexity**: Further studied the analysis and optimization of time and space complexity.
 
 - **Assignment Problems**: Solved problems focusing on algorithm optimization and complexity analysis.
+---
+
+## Task 27: DATE: 18-02-2025
+
+#### 1. Generics in C#
+- **Generic Class**: Studied the concept and implementation of generic classes in C#.
+- **Types of Parameters**: Explored different types of parameters in generics, including in and out covariance.
+
+- **Smart Warehouse Management System**: Solved an assignment problem focused on applying generics in a smart warehouse management system.
 
 ---
 
+## Task 28: DATE: 19-02-2025 
 
+#### 1. Collection Framework in C#
+- **Framework Hierarchy**: Learned about the hierarchy and structure of the collection framework.
+- **Interfaces and Collections**:
+  - **List, Set, Queue, and Deque**: Studied the characteristics and use cases of these collection interfaces.
+  - **Map Interface**: Explored the functionality of the map interface.
+  - **Dictionary and SortedDictionary**: Learned about the usage and differences between dictionary types.
+- **List Interface Problems**: Solved assignment problems focusing on the List interface.
+
+---
+
+## Task 29: DATE: 20-02-2025
+
+#### 1. I/O Streams in C#
+- **File Streams**: Studied the types and usage of file streams.
+- **Stream Types**:
+  - **Object Streams**: Learned about object serialization and deserialization.
+  - **Buffered Streams**: Explored the benefits of buffered streams for efficient I/O operations.
+  - **ByteArray Streams**: Studied the use of byte array streams for byte-level data handling.
+  - **Reader and Writer**: Examined the role of readers and writers in stream processing.
+  - 
+- **C# Streams Problems**: Solved assignment problems focusing on various types of streams.
+
+---
+
+## Task 30: DATE: 21-02-2025
+
+#### 1. Exception Handling in C#
+- **Types of Exceptions**: Studied the different types of exceptions in C#.
+- **Handling Exceptions**: Learned how to handle exceptions using `try`, `catch`, and `finally` blocks.
+
+- **Exception Handling Problems**: Solved assignment problems focused on handling exceptions in C#.
+
+---
+
+## Task 31: DATE: 22-02-2025
+
+#### 1. Regular Expressions and Testing Framework
+- **C# Regular Expressions**: Explored the syntax and application of regular expressions in C#.
+- **NUnit Framework**: Studied the NUnit framework for unit testing in C#.
+
+- **Regex Problems**: Solved assignment problems focused on using regular expressions.
+
+---
+
+## Task 32: DATE: 24-02-2025
+
+#### 1. Reflection and Annotations in C#
+- **C# Reflection**: Learned how to use reflection to inspect and manipulate methods, constructors, fields, and properties.
+- **C# Annotations**: Studied the usage and benefits of annotations in C#.
+
+- **Reflection Problems**: Solved assignment problems focused on applying reflection techniques.
+
+---
 
 
 
